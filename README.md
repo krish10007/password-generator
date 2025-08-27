@@ -34,6 +34,7 @@ Run the app
 npm start
 
 📷 Screenshot
+<img width="1646" height="716" alt="image" src="https://github.com/user-attachments/assets/a54ebb2c-0532-4d57-adbb-721929fbd9f5" />
 
 
 
